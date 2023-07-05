@@ -1,0 +1,496 @@
+idJurisdicao,nome,ativo,idOrgaoPje,id,table
+262,Gab. do Juiz Francisco Seráphico da Nóbrega Coutinho,False,2,783,orgao_julgador
+262,Gab. do Juiz Valdir Maia - Inativo,False,3,784,orgao_julgador
+262,Gab. da Juíza Ana Carolina Maranhão de Melo,False,4,785,orgao_julgador
+262,Gab. do Juiz Ricardo Procópio Bandeira de Melo,False,5,786,orgao_julgador
+262,Gab. da Juíza Ticiana Maria Delgado Nobre,False,6,787,orgao_julgador
+262,Gab. do Juiz Raimundo Carlyle de Oliveira Costa,False,7,788,orgao_julgador
+262,Gab. do Juiz Gustavo Marinho Nogueira Fernandes,False,8,789,orgao_julgador
+262,Gab. do Juiz Francisco Gabriel Maia Neto,False,9,790,orgao_julgador
+262,Gab. da Juíza Tatiana Socoloski,False,10,791,orgao_julgador
+263,Gab. Des. Amaury Moura Sobrinho no Pleno,True,11,792,orgao_julgador
+263,Gab. Des. Amilcar Maia na Câmara Cível,True,12,793,orgao_julgador
+263,Gab. da Presidência,False,13,794,orgao_julgador
+263,Gab. Des. Dilermando Mota na Câmara Cível - Juiz Convocado Dr. Ricardo Tinoco de Goes,True,14,795,orgao_julgador
+263,Gab. Des. Claudio Santos na Câmara Cível,True,15,796,orgao_julgador
+263,Gab. Des. Gilson Barbosa no Pleno,True,16,797,orgao_julgador
+263,Gab. Des. Glauber Rêgo no Pleno,True,17,798,orgao_julgador
+263,Gab. Des. Ibanez Monteiro na Câmara Cível,True,18,799,orgao_julgador
+263,Gab. Des. João Rebouças na Câmara Cível,True,19,800,orgao_julgador
+263,Gab. Desª. Judite Nunes na Câmara Cível,True,20,801,orgao_julgador
+263,Gab. Des. Maria Zeneide no Pleno,True,21,802,orgao_julgador
+263,Gab. Des. Saraiva Sobrinho no Pleno,True,22,803,orgao_julgador
+263,Gab. Des. Virgílio Macêdo na Câmara Cível,True,23,804,orgao_julgador
+263,Gab. Des. Vivaldo Pinheiro na Câmara Cível -  Juíza  Convocada Dra. Maria Neize de Andrade,True,24,805,orgao_julgador
+263,Gab. Des. Amílcar Maia no Pleno,True,27,806,orgao_julgador
+263,Gab. Des. Cornélio Alves no Pleno,True,28,807,orgao_julgador
+263,Gab. Des. Dilermando Mota no Pleno,True,29,808,orgao_julgador
+263,Gab. Des. Claudio Santos no Pleno,True,30,809,orgao_julgador
+263,Gab. Des. Ibanez Monteiro no Pleno,True,33,810,orgao_julgador
+263,Gab. Des. João Rebouças no Pleno,True,35,811,orgao_julgador
+263,Gab. Des. Virgílio Macêdo Junior no Pleno,True,38,812,orgao_julgador
+263,Gab. Des. Vivaldo Pinheiro no Pleno,False,39,813,orgao_julgador
+263,Gab. Des. Judite Nunes no Pleno,True,40,814,orgao_julgador
+263,Gab. Des. Cornélio Alves na Câmara Cível,True,41,815,orgao_julgador
+263,Gab. Des. Amaury Moura Sobrinho na Câmara Cível,True,42,816,orgao_julgador
+263,Gab. da Vice-Presidência no Pleno,True,43,817,orgao_julgador
+263,CEJUSC 2º Grau,False,44,818,orgao_julgador
+266,TUJ Gab. da Juíza Sandra Simões de Souza Dantas Elali,False,46,819,orgao_julgador
+266,TUJ Gab. do Juiz Ricardo Procópio Bandeira de Melo,True,48,820,orgao_julgador
+266,TUJ Gab. do Juiz Madson Ottoni de Almeida Rodrigues,False,49,821,orgao_julgador
+266,Gabinete do Presidente da TUJ,True,50,822,orgao_julgador
+263,Gab. Des. Glauber Rêgo na Câmara Criminal,True,51,823,orgao_julgador
+263,Gab. Des. Saraiva Sobrinho na Câmara Criminal,True,52,824,orgao_julgador
+263,Gab. Des. Gilson Barbosa na Câmara Criminal,True,54,825,orgao_julgador
+263,Gab. Des. Claudio Santos na Seção Cível,True,55,826,orgao_julgador
+263,Gab. Des. Cornélio Alves na Seção Cível,True,56,827,orgao_julgador
+263,Gab. Des. Dilermando Mota na Seção Cível -  Juiz Convocado Dr. Ricardo Tinoco de Goes,True,57,828,orgao_julgador
+263,Gab. Desª. Judite Nunes na Seção Cível,True,58,829,orgao_julgador
+263,Gab. Des. Virgílio Macêdo na Seção Cível,True,59,830,orgao_julgador
+263,Gab. Des. Ibanez Monteiro na Seção Cível,True,60,831,orgao_julgador
+263,Gab. Des. Amaury Moura Sobrinho na Seção Cível,True,61,832,orgao_julgador
+263,Gab. Des. Vivaldo Pinheiro na Seção Cível -  Juíza  Convocada Dra. Maria Neize de Andrade,True,62,833,orgao_julgador
+263,Gab. Des. João Rebouças na Seção Cível,True,63,834,orgao_julgador
+263,Gab. Des. Amilcar Maia na Seção Cível,True,64,835,orgao_julgador
+263,Gab. da Presidência no Pleno,True,65,836,orgao_julgador
+267,Gab. do Plantâo judiciário,True,66,837,orgao_julgador
+267,Gab. da Presidência no Plantão judiciário,True,67,838,orgao_julgador
+263,Gab. Des. Expedito Ferreira no Pleno,True,68,839,orgao_julgador
+263,Gab. Des. Expedito Ferreira na Câmara Cível,True,69,840,orgao_julgador
+263,Gab. Des. Expedito Ferreira na Seção Cível,True,70,841,orgao_julgador
+263,Gab. Desª. Maria Zeneide na Câmara Cível,True,71,842,orgao_julgador
+263,Gab. Desª. Maria Zeneide na Seção Cível,True,72,843,orgao_julgador
+263,COJUD,False,73,844,orgao_julgador
+263,Programa Prático 2º grau,False,74,845,orgao_julgador
+262,Gab. do Juiz Jose Maria Nascimento,False,75,846,orgao_julgador
+262,Gab. da Juíza Sabrina Smith,False,76,847,orgao_julgador
+262,Gab. do Juiz Valdir Flávio Lobo Maia,False,77,848,orgao_julgador
+262,Gab. da Juíza Sandra Simões de Souza Dantas Elali,True,78,849,orgao_julgador
+262,Gab. do Juiz Madson Ottoni de Almeida Rodrigues,True,79,850,orgao_julgador
+262,Gabinete 1 da 1ª Turma Recursal Temporária,True,80,851,orgao_julgador
+262,Gabinete 2 da 1ª Turma Recursal Temporária,True,81,852,orgao_julgador
+262,Gabinete 3 da 1ª Turma Recursal Temporária,True,82,853,orgao_julgador
+262,Gabinete 1 da 2ª Turma Recursal Temporária,True,83,854,orgao_julgador
+262,Gabinete 2 da 2ª Turma Recursal Temporária,True,84,855,orgao_julgador
+262,Gabinete 3 da 2ª Turma Recursal Temporária,True,85,856,orgao_julgador
+241,3º Juizado Especial Cível da Comarca de Natal,True,2,857,orgao_julgador
+241,13º Juizado Especial Cível da Comarca de Natal,True,3,858,orgao_julgador
+241,1º Juizado Especial Cível da Zona Norte da Comarca de Natal (Inativado pela resolução 35/2017),False,4,859,orgao_julgador
+241,2º Juizado Especial Cível da Zona Norte da Comarca de Natal (Inativado pela resolução 35/2017),False,5,860,orgao_julgador
+241,3º Juizado Especial Cível da Zona Norte da Comarca de Natal (Inativado pela resolução 35/2017),False,6,861,orgao_julgador
+241,11º Juizado Especial Cível da Comarca de Natal,True,7,862,orgao_julgador
+241,12º Juizado Especial Cível da Comarca de Natal,True,8,863,orgao_julgador
+241,4º Juizado Especial Cível da Comarca de Natal,True,9,864,orgao_julgador
+241,5º Juizado Especial Cível da Comarca de Natal,True,10,865,orgao_julgador
+241,9º Juizado Especial Cível da Comarca de Natal,True,11,866,orgao_julgador
+241,6º Juizado Especial Cível da Comarca de Natal (Trânsito),False,12,867,orgao_julgador
+241,6º Juizado Especial Cível da Comarca de Natal (Trânsito - Unidade Móvel),False,13,868,orgao_julgador
+241,1º Juizado Especial Cível da Comarca de Natal,True,14,869,orgao_julgador
+241,2º Juizado Especial Cível da Comarca de Natal,True,15,870,orgao_julgador
+241,7º Juizado Especial Cível da Comarca de Natal,True,16,871,orgao_julgador
+241,8º Juizado Especial Cível da Comarca de Natal,True,17,872,orgao_julgador
+241,10º Juizado Especial Cível da Comarca de Natal,True,18,873,orgao_julgador
+241,1º Vara de Execução Fiscal Municipal e Tributária da Comarca de Natal (Inativada pela resolução nº 35/2017),False,19,874,orgao_julgador
+241,2º Vara de Execução Fiscal Municipal e Tributária da Comarca de Natal (Inativada pela resolução nº 35/2017),False,20,875,orgao_julgador
+241,3º Vara de Execução Fiscal Municipal e Tributária da Comarca de Natal (Inativada pela resolução nº 35/2017),False,21,876,orgao_julgador
+241,9º Vara Cível da Comarca de Natal,True,22,877,orgao_julgador
+241,1º Vara de Execução Fiscal Estadual e Tributária da Comarca de Natal (Inativada pela resolução nº 35/2017),False,23,878,orgao_julgador
+241,2º Vara de Execução Fiscal Estadual e Tributária da Comarca de Natal (Inativada pela resolução nº 35/2017),False,24,879,orgao_julgador
+241,3º Vara de Execução Fiscal Estadual e Tributária da Comarca de Natal (Inativada pela resolução nº 35/2017),False,25,880,orgao_julgador
+241,1º Vara Cível da Comarca de Natal,True,26,881,orgao_julgador
+241,2º Vara Cível da Comarca de Natal,True,27,882,orgao_julgador
+241,20º Vara Cível da Comarca de Natal (Inativada pela resolução nº 35/2017),False,28,883,orgao_julgador
+241,8º Vara Cível da Comarca de Natal,True,29,884,orgao_julgador
+241,7º Vara Cível da Comarca de Natal,True,30,885,orgao_julgador
+241,3º Vara Cível da Comarca de Natal,True,31,886,orgao_julgador
+241,5º Vara Cível da Comarca de Natal,True,32,887,orgao_julgador
+241,12º Vara Cível da Comarca de Natal,True,33,888,orgao_julgador
+241,19º Vara Cível da Comarca de Natal (Inativada pela resolução nº 35/2017),False,34,889,orgao_julgador
+241,10º Vara Cível da Comarca de Natal,True,35,890,orgao_julgador
+241,4º Vara Cível da Comarca de Natal,True,36,891,orgao_julgador
+241,15º Vara Cível da Comarca de Natal,True,37,892,orgao_julgador
+241,1º Juizado da Fazenda Pública da Comarca de Natal,True,38,893,orgao_julgador
+241,2º Juizado da Fazenda Pública da Comarca de Natal,True,39,894,orgao_julgador
+241,21º Vara Cível da Comarca de Natal (Inativada pela resolução nº 35/2017),False,40,895,orgao_julgador
+241,2º Vara da Fazenda Pública da Comarca de Natal,True,42,896,orgao_julgador
+241,16º Vara Cível da Comarca de Natal,True,43,897,orgao_julgador
+241,18º Vara Cível da Comarca de Natal,True,44,898,orgao_julgador
+241,14º Vara Cível da Comarca de Natal,True,45,899,orgao_julgador
+241,6º Vara Cível da Comarca de Natal,True,46,900,orgao_julgador
+241,4º Vara da Fazenda Pública da Comarca de Natal,True,47,901,orgao_julgador
+241,13º Vara Cível da Comarca de Natal,True,48,902,orgao_julgador
+241,5º Vara da Fazenda Pública da Comarca de Natal,True,49,903,orgao_julgador
+241,2º Vara de Sucessões da Comarca de Natal (Fechada),False,50,904,orgao_julgador
+241,17º Vara Cível da Comarca de Natal,True,51,905,orgao_julgador
+241,1º Vara de Sucessões da Comarca de Natal (Inativada pela resolução 35/2017),False,52,906,orgao_julgador
+241,3º Vara da Fazenda Pública da Comarca de Natal,True,54,907,orgao_julgador
+241,2º Vara de Sucessões da Comarca de Natal (Inativada pela resolução 35/2017),False,55,908,orgao_julgador
+241,11º Vara Cível da Comarca de Natal,True,56,909,orgao_julgador
+241,1º Vara da Fazenda Pública da Comarca de Natal,True,57,910,orgao_julgador
+241,1º Vara de Precatórias da Comarca de Natal (Inativada pela resolução nº 35/2017),False,58,911,orgao_julgador
+241,2º Vara de Precatórias da Comarca de Natal (Inativada pela resolução nº 35/2017),False,59,912,orgao_julgador
+241,4º Vara de Família da Comarca de Natal - Inativa (Res 26),False,60,913,orgao_julgador
+241,8º Vara de Família da Comarca de Natal - Inativa (Res 26),False,61,914,orgao_julgador
+241,9º Vara de Família da Comarca de Natal - Inativa (Res 26),False,62,915,orgao_julgador
+241,5º Vara de Família da Comarca de Natal - Inativa (Res 26),False,63,916,orgao_julgador
+241,8º Vara de Família da Comarca de Natal(Extinta),False,64,917,orgao_julgador
+241,2º Vara de Família da Comarca de Natal - Inativa (Res 26),False,65,918,orgao_julgador
+241,6º Vara de Família da Comarca de Natal - Inativa (Res 26),False,66,919,orgao_julgador
+241,3º Vara de Família da Comarca de Natal - Inativa (Res 26),False,67,920,orgao_julgador
+241,7º Vara de Família da Comarca de Natal - Inativa (Res 26),False,68,921,orgao_julgador
+241,1º Vara de Família da Comarca de Natal - Inativa (Res 26),False,69,922,orgao_julgador
+241,Central de Avaliação e Arrematação,True,70,923,orgao_julgador
+213,1º Juizado Especial Cível da Comarca de Parnamirim - Inativo (Res 33),False,71,924,orgao_julgador
+213,2º Juizado Especial Cível da Comarca de Parnamirim - Inativo (Res 33),False,72,925,orgao_julgador
+213,1º Vara Cível da Comarca de Parnamirim,True,73,926,orgao_julgador
+213,2º Vara Cível da Comarca de Parnamirim,True,74,927,orgao_julgador
+213,3º Vara Cível da Comarca de Parnamirim,True,75,928,orgao_julgador
+213,1º Vara da Fazenda Pública da Comarca de Parnamirim,True,76,929,orgao_julgador
+213,1º Juizado da Fazenda Pública da Comarca de Parnamirim (Inativado pela Resolução 29/2017),False,77,930,orgao_julgador
+213,1º Vara de Família da Comarca de Parnamirim,True,78,931,orgao_julgador
+213,2º Vara de Família da Comarca de Parnamirim,True,79,932,orgao_julgador
+204,1º Vara Cível da Comarca de Macaíba (Inativada pela Resolução 30/2017),False,80,933,orgao_julgador
+204,2º Vara Cível da Comarca de Macaíba (Inativada pela Resolução 30/2017),False,81,934,orgao_julgador
+204,Juizado Especial Cível e Criminal da Comarca de Macaíba,True,82,935,orgao_julgador
+209,1º Vara Cível da Comarca de Mossoró,True,83,936,orgao_julgador
+209,2º Vara Cível da Comarca de Mossoró - Inativa,False,84,937,orgao_julgador
+209,3º Vara Cível da Comarca de Mossoró,True,85,938,orgao_julgador
+209,4º Vara Cível da Comarca de Mossoró,True,86,939,orgao_julgador
+209,5º Vara Cível da Comarca de Mossoró - Inativa,False,87,940,orgao_julgador
+209,6º Vara Cível da Comarca de Mossoró,True,88,941,orgao_julgador
+209,1º Vara de Família da Comarca de Mossoró,True,89,942,orgao_julgador
+209,2ª Vara de Família da Comarca de Mossoró (Inativada PORTARIA CONJUNTA N 30),False,90,943,orgao_julgador
+209,3º Vara de Família da Comarca de Mossoró,True,91,944,orgao_julgador
+209,4º Vara de Família da Comarca de Mossoró,False,92,945,orgao_julgador
+209,1º Juizado Especial Cível e Criminal da Comarca de Mossoró,True,93,946,orgao_julgador
+209,2º Juizado Especial Cível e Criminal da Comarca de Mossoró,True,94,947,orgao_julgador
+209,3º Juizado Especial Cível e Criminal da Comarca de Mossoró,True,95,948,orgao_julgador
+209,1º Vara da Fazenda Pública da Comarca de Mossoró,True,96,949,orgao_julgador
+241,Cejusc,False,97,950,orgao_julgador
+209,CEJUSC MOSSORÓ,False,99,951,orgao_julgador
+178,Juizado da Fazenda Pública da Comarca de Caicó,True,100,952,orgao_julgador
+178,Juizado Especial Cível e Criminal da Comarca de Caicó,True,101,953,orgao_julgador
+241,3º Juizado da Fazenda Pública da Comarca de Natal,True,102,954,orgao_julgador
+204,Juizado da Fazenda Pública da Comarca de Macaíba,True,103,955,orgao_julgador
+209,2º Vara da Fazenda Pública da Comarca de Mossoró,True,104,956,orgao_julgador
+241,CEJUSC NATAL,False,105,957,orgao_julgador
+241,CEJUSC DPVAT NATAL,False,106,958,orgao_julgador
+209,CEJUSC DPVAT MOSSORÓ,False,107,959,orgao_julgador
+213,CEJUSC DPVAT PARNAMIRIM,False,108,960,orgao_julgador
+241,CEJUSC PRÓ TRANSPORTE,False,109,961,orgao_julgador
+241,CEJUSC PARNAMIRIM,False,110,962,orgao_julgador
+241,COJUD,False,111,963,orgao_julgador
+223,Juizado Especial do Aeroporto da Comarca de São Gonçalo do Amarante,True,112,964,orgao_julgador
+241,4º Juizado da Fazenda Pública da Comarca de Natal,True,113,965,orgao_julgador
+241,5º Juizado da Fazenda Pública da Comarca de Natal,True,115,966,orgao_julgador
+241,CEJUSC BARRAGEM DE OITICICA,False,116,967,orgao_julgador
+241,6º Juizado da Fazenda Pública da Comarca de Natal,True,117,968,orgao_julgador
+204,1º Vara da Comarca de Macaíba,True,118,969,orgao_julgador
+204,2º Vara da Comarca de Macaíba,True,119,970,orgao_julgador
+204,3º Vara da Comarca de Macaíba,True,120,971,orgao_julgador
+209,1º Juizado Especial da Fazenda Pública da Comarca de Mossoró,True,121,972,orgao_julgador
+209,2º Juizado Especial da Fazenda Pública da Comarca de Mossoró,True,122,973,orgao_julgador
+209,3º Juizado Especial da Fazenda Pública da Comarca de Mossoró,True,123,974,orgao_julgador
+209,4º Juizado Especial Cível e Criminal da Comarca de Mossoró,True,124,975,orgao_julgador
+209,3º Vara da Fazenda Pública da Comarca de Mossoró(Inativada por liminar - CNJ),False,125,976,orgao_julgador
+209,2º Vara de Família da Comarca de Mossoró(Inativada por liminar - CNJ),False,126,977,orgao_julgador
+209,4º Juizado Especial da Fazenda Pública da Comarca de Mossoró,True,127,978,orgao_julgador
+213,3º Juizado Especial Cível da Comarca de Parnamirim - Inativo (Res 33),False,128,979,orgao_julgador
+213,Juizado Especial Criminal e da Fazenda Pública da Comarca de Parnamirim - Inativo (Res 33),False,129,980,orgao_julgador
+241,6º Vara da Fazenda Pública da Comarca de Natal,True,130,981,orgao_julgador
+241,14º Juizado Especial Cível da Comarca de Natal,True,131,982,orgao_julgador
+241,15º Juizado Especial Cível da Comarca de Natal,False,132,983,orgao_julgador
+241,16º Juizado Especial Cível da Comarca de Natal,False,133,984,orgao_julgador
+241,Vara de Sucessões da Comarca de Natal - Inativa (Res 26),False,134,985,orgao_julgador
+241,19º Vara Cível da Comarca de Natal,True,135,986,orgao_julgador
+241,22º Vara Cível da Comarca de Natal,True,136,987,orgao_julgador
+241,21º Vara Cível da Comarca de Natal,True,137,988,orgao_julgador
+241,20º Vara Cível da Comarca de Natal,True,138,989,orgao_julgador
+241,23º Vara Cível da Comarca de Natal,True,139,990,orgao_julgador
+241,24º Vara Cível da Comarca de Natal,True,140,991,orgao_julgador
+241,1º Vara de Execução Fiscal e Tributária de Natal,True,141,992,orgao_julgador
+241,2º Vara de Execução Fiscal e Tributária de Natal,True,142,993,orgao_julgador
+241,3º Vara de Execução Fiscal e Tributária de Natal,True,143,994,orgao_julgador
+241,4º Vara de Execução Fiscal e Tributária de Natal,True,144,995,orgao_julgador
+241,5º Vara de Execução Fiscal e Tributária de Natal,True,145,996,orgao_julgador
+241,6º Vara de Execução Fiscal e Tributária de Natal,True,146,997,orgao_julgador
+219,Juizado Especial Cível e Criminal da Comarca de Santa Cruz,True,147,998,orgao_julgador
+219,Juizado da Fazenda Pública da Comarca de Santa Cruz,True,148,999,orgao_julgador
+219,1º Vara da Comarca de Santa Cruz,True,149,1000,orgao_julgador
+219,2º Vara da Comarca de Santa Cruz,True,150,1001,orgao_julgador
+177,Juizado Especial Cível e Criminal da Comarca de Assu,True,151,1002,orgao_julgador
+177,Juizado da Fazenda Pública da Comarca de Assu,True,152,1003,orgao_julgador
+177,1º Vara da Comarca de Assu,True,153,1004,orgao_julgador
+177,2º Vara da Comarca de Assu,True,154,1005,orgao_julgador
+177,3º Vara da Comarca de Assu,True,155,1006,orgao_julgador
+223,Juizado Especial Cível e Criminal da Comarca de São Gonçalo do Amarante,True,156,1007,orgao_julgador
+223,Juizado da Fazenda Pública da Comarca de São Gonçalo do Amarante,True,157,1008,orgao_julgador
+223,1º Vara da Comarca de São Gonçalo do Amarante,True,158,1009,orgao_julgador
+223,2º Vara da Comarca de São Gonçalo do Amarante,True,159,1010,orgao_julgador
+223,3º Vara da Comarca de São Gonçalo do Amarante,True,160,1011,orgao_julgador
+186,Juizado Especial Cível e Criminal da Comarca de Areia Branca,True,161,1012,orgao_julgador
+186,Juizado da Fazenda Pública da Comarca de Areia Branca,True,162,1013,orgao_julgador
+186,1º Vara da Comarca de Areia Branca,True,163,1014,orgao_julgador
+186,2º Vara da Comarca de Areia Branca,True,164,1015,orgao_julgador
+228,Juizado da Fazenda Pública da Comarca de São Paulo do Potengi (NÃO UTILIZADO),False,165,1016,orgao_julgador
+228,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São Paulo do Potengi",True,166,1017,orgao_julgador
+228,Vara Única da Comarca de São Paulo do Potengi,True,167,1018,orgao_julgador
+192,1º Vara da Comarca de Ceará-Mirim,True,168,1019,orgao_julgador
+192,2º Vara da Comarca de Ceará-Mirim,True,169,1020,orgao_julgador
+192,3º Vara da Comarca de Ceará-Mirim,True,170,1021,orgao_julgador
+192,Juizado da Fazenda Pública da Comarca de Ceará-Mirim,True,171,1022,orgao_julgador
+192,Juizado Especial Cível e Criminal da Comarca de Ceará-Mirim,True,172,1023,orgao_julgador
+200,Juizado Especial Cível e Criminal da Comarca de João Câmara,True,173,1024,orgao_julgador
+200,Juizado da Fazenda Pública da Comarca de João Câmara,True,174,1025,orgao_julgador
+200,1º Vara da Comarca de João Câmara,True,175,1026,orgao_julgador
+200,2º Vara da Comarca de João Câmara,True,176,1027,orgao_julgador
+211,Juizado Especial Cível e Criminal da Comarca de Nova Cruz,True,177,1028,orgao_julgador
+211,Juizado da Fazenda Pública da Comarca de Nova Cruz,True,178,1029,orgao_julgador
+211,1º Vara da Comarca de Nova Cruz,True,179,1030,orgao_julgador
+211,2º Vara da Comarca de Nova Cruz,True,180,1031,orgao_julgador
+229,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São Tomé",True,181,1032,orgao_julgador
+229,Juizado da Fazenda Pública da Comarca de São Tomé(NÃO UTILIZADO),False,182,1033,orgao_julgador
+229,Vara Única da Comarca de São Tomé,True,183,1034,orgao_julgador
+231,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Touros",True,184,1035,orgao_julgador
+231,Juizado da Fazenda Pública da Comarca de Touros (NÃO UTILIZADO),False,185,1036,orgao_julgador
+231,Vara Única da Comarca de Touros,True,186,1037,orgao_julgador
+188,Vara Única da Comarca de Baraúna,True,187,1038,orgao_julgador
+188,Juizado da Fazenda Pública da Comarca de Baraúna (NÃO UTILIZADO),False,188,1039,orgao_julgador
+188,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Baraúna",True,189,1040,orgao_julgador
+233,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Upanema",True,190,1041,orgao_julgador
+233,Vara Única da Comarca de Upanema,True,191,1042,orgao_julgador
+189,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Campo Grande",True,192,1043,orgao_julgador
+189,Vara Única da Comarca de Campo Grande,True,193,1044,orgao_julgador
+194,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Extremoz",True,194,1045,orgao_julgador
+194,Vara Única da Comarca de Extremoz,True,195,1046,orgao_julgador
+185,1º Vara da Comarca de Apodi,True,196,1047,orgao_julgador
+185,2º Vara da Comarca de Apodi,True,197,1048,orgao_julgador
+185,Juizado Especial Cível e Criminal da Comarca de Apodi,True,198,1049,orgao_julgador
+185,Juizado da Fazenda Pública da Comarca de Apodi,True,199,1050,orgao_julgador
+210,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Nísia Floresta - 1ª Vara",True,200,1051,orgao_julgador
+210,1ª Vara da Comarca de Nísia Floresta,True,201,1052,orgao_julgador
+187,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Arês",True,202,1053,orgao_julgador
+187,Vara Única da Comarca de Arês,True,203,1054,orgao_julgador
+208,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Monte Alegre",True,204,1055,orgao_julgador
+208,Vara Única da Comarca de Monte Alegre,True,205,1056,orgao_julgador
+216,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Pedro Velho",True,206,1057,orgao_julgador
+216,Vara Única da Comarca de Pedro Velho,True,207,1058,orgao_julgador
+225,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São José do Campestre",True,208,1059,orgao_julgador
+225,Vara Única da Comarca de São José do Campestre,True,209,1060,orgao_julgador
+191,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Caraúbas",True,210,1061,orgao_julgador
+191,Vara Única da Comarca de Caraúbas,True,211,1062,orgao_julgador
+241,19º Vara Cível da Comarca de Natal - DPVATInativada (Res 26),False,212,1063,orgao_julgador
+241,20º Vara Cível da Comarca de Natal - DPVATInativada (Res 26),False,213,1064,orgao_julgador
+241,23º Vara Cível da Comarca de Natal - DPVATInativada (Res 26),False,214,1065,orgao_julgador
+241,24º Vara Cível da Comarca de Natal - DPVATInativada (Res 26),False,215,1066,orgao_julgador
+241,20º Vara Cível da Comarca de Natal - FalênciaInativada (Res 26),False,216,1067,orgao_julgador
+230,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Tangará",True,217,1068,orgao_julgador
+230,Vara Única da Comarca de Tangará,True,218,1069,orgao_julgador
+226,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São José de Mipibu",True,219,1070,orgao_julgador
+226,Vara Única da Comarca de São José de Mipibu,True,220,1071,orgao_julgador
+196,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Goianinha - 1ª Vara",True,221,1072,orgao_julgador
+196,1ª Vara da Comarca de Goianinha,True,222,1073,orgao_julgador
+190,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Canguaretama",True,223,1074,orgao_julgador
+190,Vara Única da Comarca de Canguaretama,True,224,1075,orgao_julgador
+221,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Santo Antônio",True,225,1076,orgao_julgador
+221,Vara Única da Comarca de Santo Antônio,True,226,1077,orgao_julgador
+178,1º Vara da Comarca de Caicó,True,227,1078,orgao_julgador
+178,2º Vara da Comarca de Caicó,True,228,1079,orgao_julgador
+178,3º Vara da Comarca de Caicó,True,229,1080,orgao_julgador
+215,1º Vara da Comarca de Pau dos Ferros,True,230,1081,orgao_julgador
+215,2º Vara da Comarca de Pau dos Ferros,True,231,1082,orgao_julgador
+215,3º Vara da Comarca de Pau dos Ferros,True,232,1083,orgao_julgador
+215,Juizado Especial Cível e Criminal da Comarca de Pau dos Ferros,True,233,1084,orgao_julgador
+215,Juizado da Fazenda Pública da Comarca de Pau dos Ferros,True,234,1085,orgao_julgador
+234,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Poço Branco",True,235,1086,orgao_julgador
+234,Vara Única da Comarca de Poço Branco,True,236,1087,orgao_julgador
+224,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São João do Sabugi",True,237,1088,orgao_julgador
+224,Vara Única da Comarca de São João do Sabugi,True,238,1089,orgao_julgador
+198,Vara Única da Comarca de Jardim de Piranhas,True,239,1090,orgao_julgador
+198,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Jardim de Piranhas",True,240,1091,orgao_julgador
+199,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Jardim do Seridó",True,241,1092,orgao_julgador
+199,Vara Única da Comarca de Jardim do Seridó,True,242,1093,orgao_julgador
+193,Vara Única da Comarca de Cruzeta,True,243,1094,orgao_julgador
+193,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Cruzeta",True,244,1095,orgao_julgador
+207,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Martins",True,245,1096,orgao_julgador
+207,Vara Única da Comarca de Martins,True,246,1097,orgao_julgador
+209,2º Vara de Família da Comarca de Mossoró,True,248,1098,orgao_julgador
+209,3º Vara da Fazenda Pública da Comarca de Mossoró,True,249,1099,orgao_julgador
+181,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Acari",True,250,1100,orgao_julgador
+181,Vara Única da Comarca de Acari,True,251,1101,orgao_julgador
+212,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Parelhas",True,252,1102,orgao_julgador
+212,Vara Única da Comarca de Parelhas,True,253,1103,orgao_julgador
+232,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Umarizal",True,254,1104,orgao_julgador
+232,Vara Única da Comarca de Umarizal,True,255,1105,orgao_julgador
+195,"Juizado Especial Cúvel, Criminal e da Fazenda Pública da Comarca de Florânia",True,256,1106,orgao_julgador
+195,Vara Única da Comarca de Florânia,True,257,1107,orgao_julgador
+201,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Jucurutu",True,258,1108,orgao_julgador
+201,Vara Única da Comarca de Jucurutu,True,259,1109,orgao_julgador
+183,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Almino Afonso",True,260,1110,orgao_julgador
+183,Vara Única da Comarca de Almino Afonso,True,261,1111,orgao_julgador
+220,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Santana do Matos",True,262,1112,orgao_julgador
+220,Vara Única da Comarca de Santana do Matos,True,263,1113,orgao_julgador
+214,Vara Única da Comarca de Patu,True,264,1114,orgao_julgador
+214,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Patu",True,265,1115,orgao_julgador
+206,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Marcelino Vieira",True,266,1116,orgao_julgador
+206,Vara Única da Comarca de Marcelino Vieira,True,267,1117,orgao_julgador
+178,CEJUSC CAICÓ,False,268,1118,orgao_julgador
+209,Secretaria Unificada Cível Mossoró,False,269,1119,orgao_julgador
+209,Secretaria Unificada Família Mossoró,False,270,1120,orgao_julgador
+180,1º Vara da Comarca de Currais Novos,True,271,1121,orgao_julgador
+180,2º Vara da Comarca de Currais Novos,True,272,1122,orgao_julgador
+180,Juizado Especial Cível e Criminal da Comarca de Currais Novos,True,273,1123,orgao_julgador
+180,Juizado da Fazenda Pública da Comarca de Currais Novos,True,274,1124,orgao_julgador
+182,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Alexandria",True,275,1125,orgao_julgador
+182,Vara Única da Comarca de Alexandria,True,276,1126,orgao_julgador
+203,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Luís Gomes",True,277,1127,orgao_julgador
+203,Vara Única da Comarca de Luís Gomes,True,278,1128,orgao_julgador
+227,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São Miguel",True,279,1129,orgao_julgador
+227,Vara Única da Comarca de São Miguel,True,280,1130,orgao_julgador
+218,"Juizado Especial Cível, Criminal e da Fazenda Públia da Comarca de Portalegre",True,281,1131,orgao_julgador
+218,Vara Única da Comarca de Portalegre,True,282,1132,orgao_julgador
+205,1º Vara da Comarca de Macau,True,283,1133,orgao_julgador
+205,2º Vara da Comarca de Macau,True,284,1134,orgao_julgador
+205,Juizado Especial Cível e Criminal da Comarca de Macau,True,285,1135,orgao_julgador
+205,Juizado da Fazenda Pública da Comarca de Macau,True,286,1136,orgao_julgador
+217,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Pendências",True,287,1137,orgao_julgador
+217,Vara Única da Comarca de Pendências,True,288,1138,orgao_julgador
+222,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de São Bento do Norte",True,289,1139,orgao_julgador
+222,Vara Única da Comarca de São Bento do Norte,True,290,1140,orgao_julgador
+197,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Ipanguaçu",True,291,1141,orgao_julgador
+197,Vara Única da Comarca de Ipanguaçu,True,292,1142,orgao_julgador
+184,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Angicos",True,293,1143,orgao_julgador
+184,Vara Única da Comarca de Angicos,True,294,1144,orgao_julgador
+202,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Lajes",True,295,1145,orgao_julgador
+202,Vara Única da Comarca de Lajes,True,296,1146,orgao_julgador
+209,2º Vara Cível da Comarca de Mossoró,True,297,1147,orgao_julgador
+209,5º Vara Cível da Comarca de Mossoró,True,298,1148,orgao_julgador
+241,1º Vara de Família e Sucessões da Comarca de Natal,True,299,1149,orgao_julgador
+241,2º Vara de Família e Sucessões da Comarca de Natal,True,300,1150,orgao_julgador
+241,3º Vara de Família e Sucessões da Comarca de Natal,True,301,1151,orgao_julgador
+241,4º Vara de Família e Sucessões da Comarca de Natal,True,302,1152,orgao_julgador
+241,5º Vara de Família e Sucessões da Comarca de Natal,True,303,1153,orgao_julgador
+241,6º Vara de Família e Sucessões da Comarca de Natal,True,304,1154,orgao_julgador
+241,7º Vara de Família e Sucessões da Comarca de Natal,True,305,1155,orgao_julgador
+241,8º Vara de Família e Sucessões da Comarca de Natal,True,306,1156,orgao_julgador
+241,9º Vara de Família e Sucessões da Comarca de Natal,True,307,1157,orgao_julgador
+241,25º Vara Cível da Comarca de Natal,True,308,1158,orgao_julgador
+215,CEJUSC PAU DOS FERROS,False,309,1159,orgao_julgador
+241,CEJUSC PRINCESA DO SERIDÓ,False,310,1160,orgao_julgador
+213,"1º Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Parnamirim",True,312,1161,orgao_julgador
+213,"2º Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Parnamirim",True,313,1162,orgao_julgador
+213,"3º Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Parnamirim",True,314,1163,orgao_julgador
+213,"4º Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Parnamirim",True,315,1164,orgao_julgador
+213,"Vara da Infância, da Juventude e do Idoso da Comarca de Parnamirim",True,316,1165,orgao_julgador
+209,Vara da Infância e Juventude da Comarca de Mossoró,True,317,1166,orgao_julgador
+198,CEJUSC JARDIM DE PIRANHAS,False,318,1167,orgao_julgador
+241,1º Vara da Infância e Juventude da Comarca de Natal,True,319,1168,orgao_julgador
+241,2º Vara da Infância e Juventude da Comarca de Natal,True,320,1169,orgao_julgador
+241,3º Vara da Infância e Juventude da Comarca de Natal,True,321,1170,orgao_julgador
+243,Plantão Diurno Cível Região I,True,322,1171,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região III,True,323,1172,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região IV,True,324,1173,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região V,True,325,1174,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região VI,True,326,1175,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região VII,True,327,1176,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região VIII,True,328,1177,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região IX,True,329,1178,orgao_julgador
+243,Plantão Diurno Cível e Criminal Região X,True,330,1179,orgao_julgador
+244,Plantão Noturno Cível e Criminal,True,331,1180,orgao_julgador
+241,19º Vara Cível da Comarca de Natal - DPVAT (Inativo),False,332,1181,orgao_julgador
+241,19º Vara Cível da Comarca de Natal - Execução de Título Extrajudicial (Inativo),False,333,1182,orgao_julgador
+241,19º Vara Cível da Comarca de Natal - Falência e Meio Ambiente (Inativo),False,334,1183,orgao_julgador
+241,20º Vara Cível da Comarca de Natal - DPVAT (Inativo),False,335,1184,orgao_julgador
+241,20º Vara Cível da Comarca de Natal - Execução de Título Extrajudicial (Inativo),False,336,1185,orgao_julgador
+241,20º Vara Cível da Comarca de Natal - Precatória e Ordem (Inativo),False,337,1186,orgao_julgador
+241,23º Vara Cível da Comarca de Natal - DPVAT (Inativo),False,338,1187,orgao_julgador
+241,23º Vara Cível da Comarca de Natal - Execução de Título Extrajudicial (Inativo),False,339,1188,orgao_julgador
+241,23º Vara Cível da Comarca de Natal - Falência e Meio Ambiente (Inativo),False,340,1189,orgao_julgador
+241,23º Vara Cível da Comarca de Natal - Precatória e Ordem (Inativo),False,341,1190,orgao_julgador
+241,24º Vara Cível da Comarca de Natal - Execução de Título Extrajudicial (Inativo),False,343,1191,orgao_julgador
+241,24º Vara Cível da Comarca de Natal - Falência e Meio Ambiente (Inativo),False,344,1192,orgao_julgador
+241,24º Vara Cível da Comarca de Natal - Precatória e Ordem (Inativo),False,345,1193,orgao_julgador
+241,25º Vara Cível da Comarca de Natal - DPVAT (Inativo),False,346,1194,orgao_julgador
+241,25º Vara Cível da Comarca de Natal - Falência e Meio Ambiente (Inativo),False,347,1195,orgao_julgador
+241,25º Vara Cível da Comarca de Natal - Precatória e Ordem (Inativo),False,348,1196,orgao_julgador
+241,19º Vara Cível da Comarca de Natal - Precatória e Ordem (Inativo),False,349,1197,orgao_julgador
+241,Programa Prãtico 1º Grau,False,350,1198,orgao_julgador
+241,20º Vara Cível da Comarca de Natal - Falência e Meio Ambiente (Inativo),False,351,1199,orgao_julgador
+241,24º Vara Cível da Comarca de Natal - DPVAT (Inativo),False,352,1200,orgao_julgador
+241,25º Vara Cível da Comarca de Natal - Execução de Título Extrajudicial (Inativo),False,353,1201,orgao_julgador
+241,Juizado Itinerante - INATIVO,False,354,1202,orgao_julgador
+186,CEJUSC AREIA BRANCA,False,355,1203,orgao_julgador
+241,CEJUSC ASSU,False,356,1204,orgao_julgador
+185,CEJUSC APODI,False,357,1205,orgao_julgador
+192,CEJUSC CEARÁ-MIRIM,False,358,1206,orgao_julgador
+204,CEJUSC MACAÍBA,False,359,1207,orgao_julgador
+211,CEJUSC NOVA CRUZ,False,360,1208,orgao_julgador
+219,CEJUSC SANTA CRUZ,False,361,1209,orgao_julgador
+223,CEJUSC SÃO GONÇALO DO AMARANTE,False,362,1210,orgao_julgador
+241,CEJUSC SAÚDE,False,363,1211,orgao_julgador
+209,Juizado da Violência Doméstica e Familiar Contra a Mulher da Comarca de Mossoró,True,364,1212,orgao_julgador
+241,1º Juizado da Violência Doméstica e Familiar Contra a Mulher da Comarca de Natal,True,365,1213,orgao_julgador
+241,2º Juizado da Violência Doméstica e Familiar Contra a Mulher da Comarca de Natal,True,366,1214,orgao_julgador
+241,3º Juizado da Violência Doméstica e Familiar Contra a Mulher da Comarca de Natal,True,367,1215,orgao_julgador
+213,Juizado da Violência Doméstica e Familiar Contra a Mulher da Comarca de Parnamirim,True,368,1216,orgao_julgador
+213,1º Vara Criminal da Comarca de Parnamirim,True,369,1217,orgao_julgador
+213,2º Vara Criminal da Comarca de Parnamirim,True,370,1218,orgao_julgador
+209,1º Vara Criminal da Comarca de Mossoró,True,371,1219,orgao_julgador
+209,2º Vara Criminal da Comarca de Mossoró,True,372,1220,orgao_julgador
+209,3º Vara Criminal da Comarca de Mossoró,True,373,1221,orgao_julgador
+241,1º Vara Criminal da Comarca de Natal,True,374,1222,orgao_julgador
+241,2º Vara Criminal da Comarca de Natal,True,375,1223,orgao_julgador
+241,3º Vara Criminal da Comarca de Natal,True,376,1224,orgao_julgador
+241,4º Vara Criminal da Comarca de Natal,True,377,1225,orgao_julgador
+243,Plantão Diurno Criminal Região II,True,378,1226,orgao_julgador
+244,Plantão Criminal Noturno,False,379,1227,orgao_julgador
+241,5º Vara Criminal da Comarca de Natal,True,380,1228,orgao_julgador
+241,6º Vara Criminal da Comarca de Natal,True,381,1229,orgao_julgador
+241,7º Vara Criminal da Comarca de Natal,True,382,1230,orgao_julgador
+241,8º Vara Criminal da Comarca de Natal,True,383,1231,orgao_julgador
+241,9º Vara Criminal da Comarca de Natal,True,384,1232,orgao_julgador
+241,10º Vara Criminal da Comarca de Natal,True,385,1233,orgao_julgador
+241,12º Vara Criminal da Comarca de Natal,True,386,1234,orgao_julgador
+241,13º Vara Criminal da Comarca de Natal,True,387,1235,orgao_julgador
+241,16º Vara Criminal da Comarca de Natal,False,388,1236,orgao_julgador
+241,15º Vara Criminal da Comarca de Natal,True,389,1237,orgao_julgador
+241,11º Vara Criminal da Comarca de Natal,True,390,1238,orgao_julgador
+241,Juizado Especial Criminal da Comarca de Natal,False,391,1239,orgao_julgador
+241,1º Central de Flagrantes da Comarca de Natal,False,392,1240,orgao_julgador
+241,2º Central de Flagrantes da Comarca de Natal,False,393,1241,orgao_julgador
+241,Central de Flagrantes Pólo Mossoró,False,394,1242,orgao_julgador
+241,Central de Flagrantes Pólo Caicó,False,395,1243,orgao_julgador
+241,Central de Flagrantes Pólo Pau dos Ferros,False,396,1244,orgao_julgador
+241,14º Vara Criminal da Comarca de Natal,True,398,1245,orgao_julgador
+241,6º Juizado Especial Cível da Comarca de Natal,True,399,1246,orgao_julgador
+241,1º Juizado Especial Criminal e de Trânsito da Comarca de Natal,True,400,1247,orgao_julgador
+241,2º Juizado Especial Criminal e de Tránsito da Comarca de Natal,True,401,1248,orgao_julgador
+209,5º Juizado Especial Cível e Criminal da Comarca de Mossoró,True,402,1249,orgao_julgador
+209,5º Juizado Especial da Fazenda Pública da Comarca de Mossoró,True,403,1250,orgao_julgador
+241,CEJUSC de Parnamirim - Pré-Processual,False,404,1251,orgao_julgador
+241,Gabinete 1/UJUDOCrim,True,405,1252,orgao_julgador
+241,Gabinete 2/UJUDOCrim,True,406,1253,orgao_julgador
+241,Gabinete 3/UJUDOCrim,True,407,1254,orgao_julgador
+241,Natal - CEJUSC - Juizados - Pré-Processual,False,409,1255,orgao_julgador
+266,TUJ Gab. da Juíza Sulamita Bezerra Pacheco de Carvalho,True,86,1256,orgao_julgador
+266,TUJ Gab. do Juiz Jessé de Andrade Alexandria,True,87,1257,orgao_julgador
+262,Gab. do Juiz Fábio Antônio Correia Filgueira,True,88,1258,orgao_julgador
+262,Gab. do Juiz José Conrado Filho,True,89,1259,orgao_julgador
+262,Gab. do Juiz Reynaldo Odilio Martins Soares,True,90,1260,orgao_julgador
+266,TUJ Gab. do Juiz José Conrado Filho,True,91,1261,orgao_julgador
+210,2ª Vara da Comarca de Nísia Floresta,True,414,1262,orgao_julgador
+210,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Nísia Floresta - 2ª Vara",True,418,1263,orgao_julgador
+194,2ª Vara da Comarca de Extremoz,True,422,1264,orgao_julgador
+241,Núcleo de Execuções Fiscais 4.0 - Gabinete 1,True,419,1265,orgao_julgador
+241,Núcleo de Execuções Fiscais 4.0 - Gabinete 2,True,420,1266,orgao_julgador
+241,Núcleo de Execuções Fiscais 4.0 - Gabinete 3,True,421,1267,orgao_julgador
+190,2ª Vara da Comarca de Canguaretama,True,427,1268,orgao_julgador
+190,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Canguaretama - 2ª Vara",True,428,1269,orgao_julgador
+196,2ª Vara da Comarca de Goianinha,True,425,1270,orgao_julgador
+196,"Juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Goianinha - 2ª Vara",True,424,1271,orgao_julgador
+262,Gabinete 1 da 3ª Turma Recursal,True,97,1272,orgao_julgador
+262,Gabinete 2 da 3ª Turma Recursal,True,98,1273,orgao_julgador
+262,Gabinete 3 da 3ª Turma Recursal,True,99,1274,orgao_julgador
+241,CEJUSC de Natal - Pré-Processual,True,411,1275,orgao_julgador
+241,CEJUSC de Natal - Zona Norte Pré-Processual,True,413,1276,orgao_julgador
+209,CEJUSC de Mossoró - Pré-Processual,True,412,1277,orgao_julgador
